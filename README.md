@@ -1,3 +1,3 @@
 # TechnoHacks
 ******************IMPORTANT NOTE****************************
-SNDS.png,tc_3.png and code file must be in same folder
+All png files and code files must be in same folder
